@@ -1,5 +1,9 @@
 # ✨ About me
 
+Imagine a web technician who juggles pixels, codes with passion, and teaches with smile!
+I am like a digital multi-tool, ready to sculpt your custom websites, solve code puzzles with perseverance, and share my knowledge to the next generation of creative geeks. 💻✨
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
